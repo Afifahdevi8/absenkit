@@ -1,0 +1,49 @@
+body{
+	font-family: sans-serif;
+	background-image: url('langit.jpg');
+}
+
+h3{
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 100;
+	color: white;
+}
+
+.tulisan_login{
+	text-transform: uppercase;
+}
+
+.kotak_login{
+	width: 300px;
+	margin: 30px auto;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+	width: 70%;
+	padding: 10px;
+	font-size: 11pt;
+	background-color: white;
+}
+
+.tombol_login{
+	background: #2aa7e2;
+	color: white;
+	font-size: 11pt;
+	width: 70%;
+	border: none;
+	border-radius: 2px;
+	padding: 10px;
+}
+
+.alert{
+	background: #e44e4e;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	border:1px solid #b32929;
+}

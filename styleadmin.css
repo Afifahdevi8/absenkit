@@ -1,0 +1,82 @@
+.rpl { 
+	  margin-left: 350px;
+      margin-bottom: 35px;
+}
+
+.rpl a {
+      display: inline-block;
+      color: black;
+      padding: 0px 5px;
+      text-decoration: none;
+}
+
+.tb { 
+	margin-left: 560px;
+    margin-right: 260px;
+    margin-bottom: -21px;
+    margin-top: -20px;
+    background-color: black;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+.SelamatDatang { 
+	margin-left: 264px;
+    margin-right: 260px;
+    margin-bottom: -55px;
+    margin-top: -35px;
+    background-color: rgb(111, 133, 173);
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+.tokoonline { 
+	margin-left: 264px;
+    margin-right: 260px;
+    margin-bottom: -52px;
+    margin-top: -50px;
+    background-color:rgb(126, 150, 195);	
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+
+.kotak {     
+	background: rgb(207, 207, 218);
+    height: 400px;
+    width: 810px;
+    margin: 8px;
+}
+
+.tuku { 
+	margin-left: 264px;
+    margin-right: 260px;
+    margin-bottom: -30px;
+    margin-top: -30px;
+    background-color: blue;  
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+}
+       
+.cr {     
+	margin-left: 264px;
+    margin-right: 260px;
+    margin-bottom: -40px;
+    margin-top: -40px;
+    background-color: black; 
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+}
+
+.rpll a {
+      display: inline-block;
+      color: red;
+      padding: 0px 5px;
+      text-decoration: none;
+}
+
+.kotakk {     
+    background: rgb(207, 207, 218);
+    height: 800px;
+    width: 810px;
+    margin: 8px;
+}
